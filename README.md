@@ -98,5 +98,5 @@ This system not only enhances user convenience but also streamlines business ope
 ---
 
 ### 📌 Repository Link
-[GitHub Repository](https://github.com/chaitali-kulkarni1/E-Commerce-Management-System-with-Database)
+[GitHub Repository](https://github.com/SnehalMeshram09/MACS_Mart)
 
